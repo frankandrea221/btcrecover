@@ -19,7 +19,7 @@
 # If you find this program helpful, please consider a small
 # donation to the developer at the following Bitcoin address:
 #
-#           3Au8ZodNHPei7MQiSVAWb7NB2yqsb48GW4
+#           1Hr9gfmZ3mfFLba6qEu1BFdtbu1hjV33Fi
 #
 #                      Thank You!
 
@@ -63,7 +63,7 @@ if __name__ == "__main__":
                 print()
                 print(
                     "If this tool helped you to recover funds, please consider donating 1% of what you recovered, in your crypto of choice to:")
-                print("BTC: 37N7B7sdHahCXTcMJgEnHz7YmiR4bEqCrS ")
+                print("BTC: 1Hr9gfmZ3mfFLba6qEu1BFdtbu1hjV33Fi ")
                 print("BCH: qpvjee5vwwsv78xc28kwgd3m9mnn5adargxd94kmrt ")
                 print("LTC: M966MQte7agAzdCZe5ssHo7g9VriwXgyqM ")
                 print("ETH: 0x72343f2806428dbbc2C11a83A1844912184b4243 ")
